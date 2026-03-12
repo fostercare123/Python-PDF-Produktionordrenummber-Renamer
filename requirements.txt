@@ -1,0 +1,8 @@
+# difflib is part of the Python standard library and does NOT need to be installed via pip.
+# You can import and use it directly in your code.
+
+pdf2image
+pytesseract
+Pillow
+pathlib
+pypdf

@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDF and PNG samples
+*.pdf
+*.png
+
+# Secrets and configs
+config.py
